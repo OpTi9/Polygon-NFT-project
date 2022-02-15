@@ -10,8 +10,10 @@ CoroNFT is a Limited Edition NFT art collection of 1,000 coronavirus particles r
 ## Tech used
 - Adobe Illustrator - used to draw the layers of an artwork.
 - [Hashlips](https://github.com/HashLips/hashlips_art_engine) - used to create 1,000 unique instances of artworks based on provided layers.
-- [Pinata](https://www.pinata.cloud/) - used to host art on [IPFS](https://ipfs.io/) network.
+- [Pinata](https://www.pinata.cloud/) - used to host the art instances on [IPFS](https://ipfs.io/) network.
 - [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/wizard) - used to generate the initial boilerplate Polygon contract code.
+- [Mocha](https://mochajs.org/) - testing framework.
+- [Hardhat](https://hardhat.org/) - a development environment to compile, deploy, test, and debug smart contracts.
 - [React](https://reactjs.org/) - used for the front end of a minting dapp.
 
 ## Traits rarity
