@@ -16,13 +16,15 @@ CoroNFT is a Limited Edition NFT art collection of 1,000 coronavirus particles r
 
 ## Traits rarity
 - Out of 1,000 instances, most have all the traits; the rarer the instance, the fewer traits it has.
-`type: Trait number {
+```
+type: Trait number {
 	total_nft: 1000,
 	all_traits: 670,
 	no_back_spikes: 200,
 	no_front_spikes: 100,
 	no_mouth: 20,
 	no_spikes: 10
-}`
+}
+```
 
-- Each layer has a different variations, ranging in rarity from Common to Legendary
+- Each layer has a different variations, ranging in rarity from Common to Legendary ([full rarity info](https://github.com/OpTi9/Polygon-NFT-project/blob/main/rarity.txt))
