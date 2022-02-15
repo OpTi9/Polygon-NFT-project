@@ -1,9 +1,8 @@
 # Polygon-NFT-project
-![](https://i.imgur.com/Tc0bPfP.png)
 Simple NFT minting dapp project build on Polygon network using React.JS and Solidity.
-
 - [Website](https://practical-joliot-27375b.netlify.app/)
 - [OpenSea](https://opensea.io/collection/coronft)
+![](https://i.imgur.com/Tc0bPfP.png)
 
 ## Tech used
 - Adobe Illustrator - used to draw the layers of an artwork.
