@@ -1,4 +1,5 @@
 # Polygon-NFT-project
+![This is an image](https://imgur.com/a/zUpLSNr)
 Simple NFT minting dapp project build on Polygon network using React.JS and Solidity.
 
 - [Website](https://practical-joliot-27375b.netlify.app/)
