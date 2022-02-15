@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc413c8a04e24a2214f120945136a652c5dfca139",
+  "SCAN_LINK": "https://polygonscan.com/token/0xc413c8a04e24a2214f120945136a652c5dfca139",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CoroNFT",
+  "SYMBOL": "CNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/coronft",
+  "SHOW_BACKGROUND": true
+}
