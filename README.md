@@ -23,7 +23,7 @@ type: Trait number {
 	no_back_spikes: 200,
 	no_front_spikes: 100,
 	no_mouth: 20,
-	no_spikes: 10
+	no_spikes: 10 
 }
 ```
 
