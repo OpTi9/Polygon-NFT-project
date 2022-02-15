@@ -8,7 +8,7 @@ Simple NFT minting dapp project build on Polygon network using React.JS and Soli
 CoroNFT is a Limited Edition NFT art collection of 1,000 coronavirus particles randomly generated from manually created assets.
 
 ## Tech used
-- Adobe Illustrator - used to draw the layers of an artwork.
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - used to draw the layers of an artwork.
 - [Hashlips](https://github.com/HashLips/hashlips_art_engine) - used to create 1,000 unique instances of artworks based on provided layers.
 - [Pinata](https://www.pinata.cloud/) - used to host the art instances on [IPFS](https://ipfs.io/) network.
 - [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/wizard) - used to generate the initial boilerplate Polygon contract code.
