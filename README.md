@@ -15,6 +15,7 @@ CoroNFT is a Limited Edition NFT art collection of 1,000 coronavirus particles r
 - [Mocha](https://mochajs.org/) - testing framework.
 - [Hardhat](https://hardhat.org/) - a development environment to compile, deploy, test, and debug smart contracts.
 - [React](https://reactjs.org/) - used for the front end of a minting dapp.
+- [Redux](https://redux.js.org/) - managing and centralizing application state.
 
 ## Traits rarity
 - Out of 1,000 instances, most have all the traits; the rarer the instance, the fewer traits it has.
