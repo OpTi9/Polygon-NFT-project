@@ -1,5 +1,5 @@
 # Polygon NFT project
-Simple NFT minting dapp project build on Polygon network using React.JS and Solidity.
+Simple NFT minting dapp project build on Polygon network using React.JS.
 - [Website](https://practical-joliot-27375b.netlify.app/)
 - [OpenSea](https://opensea.io/collection/coronft)
 <img src="https://i.imgur.com/Tc0bPfP.png" width="600">
