@@ -1,0 +1,320 @@
+type: Trait number {
+	total_nft: 1000,
+	all_traits: 670,
+	no_back_spikes: 200,
+	no_front_spikes: 100,
+	no_mouth: 20,
+	no_spikes: 10
+}
+
+type: Background
+{
+  trait: 'azimov_rare',
+  weight: '5',
+  occurrence: '39 in 1000 editions (3.90 %)'
+}
+{
+  trait: 'bullshot_common',
+  weight: '12',
+  occurrence: '115 in 1000 editions (11.50 %)'
+}
+{
+  trait: 'golden_poppy_common',
+  weight: '12',
+  occurrence: '117 in 1000 editions (11.70 %)'
+}
+{
+  trait: 'indigo_common',
+  weight: '12',
+  occurrence: '113 in 1000 editions (11.30 %)'
+}
+{
+  trait: 'lemon_uncommon',
+  weight: '11',
+  occurrence: '107 in 1000 editions (10.70 %)'
+}
+{
+  trait: 'pastelgreen_common',
+  weight: '12',
+  occurrence: '132 in 1000 editions (13.20 %)'
+}
+{
+  trait: 'razzmatazz_uncommon',
+  weight: '11',
+  occurrence: '130 in 1000 editions (13.00 %)'
+}
+{
+  trait: 'scarlet_common',
+  weight: '12',
+  occurrence: '125 in 1000 editions (12.50 %)'
+}
+{
+  trait: 'skyblue_uncommon',
+  weight: '11',
+  occurrence: '104 in 1000 editions (10.40 %)'
+}
+{
+  trait: 'tropical_legendary',
+  weight: '2',
+  occurrence: '18 in 1000 editions (1.80 %)'
+}
+
+Trait type: Back-spikes
+{
+  trait: 'brown_common',
+  weight: '12',
+  occurrence: '81 in 1000 editions (8.10 %)'
+}
+{
+  trait: 'covfefe_rare',
+  weight: '8',
+  occurrence: '58 in 1000 editions (5.80 %)'
+}
+{
+  trait: 'cyan_uncommon',
+  weight: '11',
+  occurrence: '83 in 1000 editions (8.30 %)'
+}
+{
+  trait: 'green_common',
+  weight: '12',
+  occurrence: '97 in 1000 editions (9.70 %)'
+}
+{
+  trait: 'pink_uncommon',
+  weight: '11',
+  occurrence: '93 in 1000 editions (9.30 %)'
+}
+{
+  trait: 'rainbow_rare',
+  weight: '8',
+  occurrence: '62 in 1000 editions (6.20 %)'
+}
+{
+  trait: 'red_common',
+  weight: '12',
+  occurrence: '114 in 1000 editions (11.40 %)'
+}
+{
+  trait: 'tropical_legendary',
+  weight: '2',
+  occurrence: '20 in 1000 editions (2.00 %)'
+}
+{
+  trait: 'violet_common',
+  weight: '12',
+  occurrence: '91 in 1000 editions (9.10 %)'
+}
+{
+  trait: 'yellow_common',
+  weight: '12',
+  occurrence: '91 in 1000 editions (9.10 %)'
+}
+
+Trait type: Body
+{
+  trait: 'black_uncommon',
+  weight: '11',
+  occurrence: '107 in 1000 editions (10.70 %)'
+}
+{
+  trait: 'blue_common',
+  weight: '12',
+  occurrence: '121 in 1000 editions (12.10 %)'
+}
+{
+  trait: 'cactus_rare',
+  weight: '8',
+  occurrence: '72 in 1000 editions (7.20 %)'
+}
+{
+  trait: 'green_common',
+  weight: '12',
+  occurrence: '120 in 1000 editions (12.00 %)'
+}
+{
+  trait: 'orange_common',
+  weight: '12',
+  occurrence: '119 in 1000 editions (11.90 %)'
+}
+{
+  trait: 'pink_uncommon',
+  weight: '11',
+  occurrence: '105 in 1000 editions (10.50 %)'
+}
+{
+  trait: 'rainbow_rare',
+  weight: '8',
+  occurrence: '90 in 1000 editions (9.00 %)'
+}
+{
+  trait: 'red_common',
+  weight: '12',
+  occurrence: '128 in 1000 editions (12.80 %)'
+}
+{
+  trait: 'tropical_legendary',
+  weight: '2',
+  occurrence: '16 in 1000 editions (1.60 %)'
+}
+{
+  trait: 'yellow_common',
+  weight: '12',
+  occurrence: '122 in 1000 editions (12.20 %)'
+}
+
+Trait type: Front-spikes
+{
+  trait: 'clementine_uncommon',
+  weight: '11',
+  occurrence: '100 in 1000 editions (10.00 %)'
+}
+{
+  trait: 'diamon_rare',
+  weight: '8',
+  occurrence: '65 in 1000 editions (6.50 %)'
+}
+{
+  trait: 'gradient_common',
+  weight: '12',
+  occurrence: '98 in 1000 editions (9.80 %)'
+}
+{
+  trait: 'night_legendary',
+  weight: '2',
+  occurrence: '16 in 1000 editions (1.60 %)'
+}
+{
+  trait: 'orange_common',
+  weight: '12',
+  occurrence: '111 in 1000 editions (11.10 %)'
+}
+{
+  trait: 'pastel_uncommon',
+  weight: '11',
+  occurrence: '101 in 1000 editions (10.10 %)'
+}
+{
+  trait: 'rainbow_rare',
+  weight: '8',
+  occurrence: '86 in 1000 editions (8.60 %)'
+}
+{
+  trait: 'red_common',
+  weight: '12',
+  occurrence: '106 in 1000 editions (10.60 %)'
+}
+{
+  trait: 'sea_common',
+  weight: '12',
+  occurrence: '91 in 1000 editions (9.10 %)'
+}
+{
+  trait: 'violet_common',
+  weight: '12',
+  occurrence: '116 in 1000 editions (11.60 %)'
+}
+
+Trait type: Eyes
+{
+  trait: 'alien_common',
+  weight: '12',
+  occurrence: '116 in 1000 editions (11.60 %)'
+}
+{
+  trait: 'angry_common',
+  weight: '12',
+  occurrence: '109 in 1000 editions (10.90 %)'
+}
+{
+  trait: 'default_common',
+  weight: '12',
+  occurrence: '111 in 1000 editions (11.10 %)'
+}
+{
+  trait: 'glasses_uncommon',
+  weight: '11',
+  occurrence: '99 in 1000 editions (9.90 %)'
+}
+{
+  trait: 'happy_common',
+  weight: '12',
+  occurrence: '135 in 1000 editions (13.50 %)'
+}
+{
+  trait: 'matrix_uncommon',
+  weight: '11',
+  occurrence: '125 in 1000 editions (12.50 %)'
+}
+{
+  trait: 'minec_common',
+  weight: '12',
+  occurrence: '116 in 1000 editions (11.60 %)'
+}
+{
+  trait: 'pirate_rare',
+  weight: '8',
+  occurrence: '85 in 1000 editions (8.50 %)'
+}
+{
+  trait: 'rip_rare',
+  weight: '8',
+  occurrence: '83 in 1000 editions (8.30 %)'
+}
+{
+  trait: 'terminate_legendary',
+  weight: '2',
+  occurrence: '21 in 1000 editions (2.10 %)'
+}
+
+Trait type: Mouth
+{
+  trait: 'bottom_common',
+  weight: '12',
+  occurrence: '104 in 1000 editions (10.40 %)'
+}
+{
+  trait: 'dovolen_uncommon',
+  weight: '11',
+  occurrence: '109 in 1000 editions (10.90 %)'
+}
+{
+  trait: 'gasp_common',
+  weight: '12',
+  occurrence: '138 in 1000 editions (13.80 %)'
+}
+{
+  trait: 'mask_legendary',
+  weight: '2',
+  occurrence: '17 in 1000 editions (1.70 %)'
+}
+{
+  trait: 'muted_rare',
+  weight: '8',
+  occurrence: '65 in 1000 editions (6.50 %)'
+}
+{
+  trait: 'one_common',
+  weight: '12',
+  occurrence: '87 in 1000 editions (8.70 %)'
+}
+{
+  trait: 'smh_uncommon',
+  weight: '11',
+  occurrence: '114 in 1000 editions (11.40 %)'
+}
+{
+  trait: 'three_common',
+  weight: '12',
+  occurrence: '126 in 1000 editions (12.60 %)'
+}
+{
+  trait: 'two_common',
+  weight: '12',
+  occurrence: '126 in 1000 editions (12.60 %)'
+}
+{
+  trait: 'vamp_rare',
+  weight: '8',
+  occurrence: '94 in 1000 editions (9.40 %)'
+}
